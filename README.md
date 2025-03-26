@@ -24,10 +24,7 @@ This is the updated version of [Isaac Sim Project Template](https://github.com/i
 
 ```bash
 # Option 1: HTTPS
-git clone https://github.com/isaac-sim/IsaacLabExtensionTemplate.git
-
-# Option 2: SSH
-git clone git@github.com:isaac-sim/IsaacLabExtensionTemplate.git
+git clone https://github.com/alamgirakash2000/IsaacLabStarter
 ```
 
 - Throughout the repository, the name `test_project` only serves as an example and we provide a script to rename all the references to it automatically:
