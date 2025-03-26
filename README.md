@@ -71,7 +71,7 @@ python scripts/rsl_rl/play.py --task=Isaac-Velocity-Rough-H1-Play-v0
  conda activate isaacenv
 
  # 2. Clone this repository the project template
- git clone https://github.com/isaac-sim/IsaacLabExtensionTemplate.git 
+ git clone https://github.com/alamgirakash2000/IsaacLabStarter 
 
  # 3. Go to the project repository
  cd IsaacLabEntension
@@ -81,7 +81,7 @@ python scripts/rsl_rl/play.py --task=Isaac-Velocity-Rough-H1-Play-v0
 
  # 5. Install the libraries
  python -m pip install -e source/test_project 
- 
+
  # To verify and train an environment
  python scripts/rsl_rl/train.py --task=Isaac-Velocity-Rough-G1-v0
 
