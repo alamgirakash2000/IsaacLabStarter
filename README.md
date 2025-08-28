@@ -71,7 +71,7 @@ python scripts/rsl_rl/play.py --task=Isaac-Velocity-Rough-H1-Play-v0
  git clone https://github.com/alamgirakash2000/IsaacLabStarter 
 
  # 3. Go to the project repository
- cd IsaacLabEntension
+ cd IsaacLabStarter
 
  # 4. Rename the project in all the occurances (sample name: test project)
  python scripts/rename_template.py test_project  
